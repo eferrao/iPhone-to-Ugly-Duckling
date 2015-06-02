@@ -1,4 +1,4 @@
-# Millennials to Snake People
+# iPhone to Ugly Duckling
 
 Chrome extension that reveals the *real* truth behind Millennials.
 
@@ -10,13 +10,8 @@ Chrome extension that reveals the *real* truth behind Millennials.
 
 
 ## Also
-- Follow [@snakepeople_bot](https://twitter.com/snakepeople_bot) on Twitter, courtesy of [jimkang](https://github.com/jimkang)'s [hail-ants-bot](https://github.com/jimkang/hail-ants-bot)
-- Check out [Cloud to Butt Plus](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai?hl=en), [SJW to Skeleton](https://chrome.google.com/webstore/detail/sjw-to-skeleton/kckodmjikeoncekpplppkkcjolofmacc?hl=en), [Millennials Begone!](https://chrome.google.com/webstore/detail/millennials-begone/dlgjecnejicmpdknhangcbeahbgipolf?hl=en)
+- Follow [@MusingMurmurs](https://twitter.com/MusingMurmurs) on Twitter. 
 - Make your own with [Search and Replace](https://chrome.google.com/webstore/detail/search-and-replace/bldchfkhmnkoimaciljpilanilmbnofo?hl=en-GB)
-
-## Thanks
-Big thanks to [samford](https://github.com/samford) and [vandahm](https://github.com/vandahm) for their assistance! 
-
 
 ## Screenshots
 
